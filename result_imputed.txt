@@ -1,0 +1,5 @@
+File used for tracking the process and results of the Imputed version of the project. I'll try to drop the amount of data points below the threshold, and cleverly impute the rest> But
+
+- careful not to leak data (don't exactly know how to do that just yet)
+- use different methods of imputation, to try out more options
+
