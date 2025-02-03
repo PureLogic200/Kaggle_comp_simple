@@ -1,0 +1,5 @@
+Started with the new git branch and the new idea, to separate, and try to heavily drop the data, all that's missing and see what happens:
+
+- changes in model performance
+- other changes
+
