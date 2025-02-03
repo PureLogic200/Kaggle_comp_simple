@@ -1,0 +1,6 @@
+I intend to make multiple versions of the same project and save them using Git, not have all of them in the
+same file, cus that makes it too long. I'll document results here, to decide on a version:
+
+first_go is the first instance, I learned about using skewness algorithms to deal with some data, but little actual use
+
+
